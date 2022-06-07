@@ -5,7 +5,7 @@ A CS student who devoted himself into binary analysis with no skills.  / 只会�
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Holit&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Holit&layout=compact&hide_border=true&langs_count=12&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Holit&layout=compact&hide_border=true&langs_count=4&include_all_commits=true&count_private=true">
 </p>
 
 ## 🔭 I’m currently working on / 我专注于
