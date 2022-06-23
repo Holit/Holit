@@ -17,7 +17,3 @@ A CS student who devoted himself into binary analysis with no skills.  / 只会�
 * Other contact information can be obtained by mail. / 其他联系方式以邮件方式详询  
 
 #### 📟 Go check [My Blog](https://www.cnblogs.com/holittech/) as well! / 欢迎访问我的博客
-
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/Holit/count.svg" /><br>
-</p>
