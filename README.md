@@ -16,4 +16,4 @@ A CS student who devoted himself into binary analysis with no skills.  / 只会�
 * Contact me using public email: [gao1021229073@163.com](mailto:gao1021229073@163.com)  / 任何联系请先送信至邮箱
 * Other contact information can be obtained by mail. / 其他联系方式以邮件方式详询  
 
-#### 📟 Go check [My Blog](https://www.cnblogs.com/holittech/) as well! / 欢迎访问我的博客
+#### 📟 Go check [My Blog](https://www.cnblogs.com/hed10ne) as well! / 欢迎访问我的博客
